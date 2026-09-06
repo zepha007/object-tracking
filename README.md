@@ -14,3 +14,5 @@ Troisièmement, l'analyse du mouvement a consisté à calculer approximativement
 
 Réponses aux questions d'analyse
 Concernant la comparaison des méthodes, le suivi automatique offre l'avantage de la rapidité et du traitement de grands volumes d'images, mais il peut être mis en défaut par des variations de luminosité ou des changements d'échelle, tandis que le suivi manuel est précis mais très chronophage. Par ailleurs, si l'objet est partiellement masqué, l'algorithme ou l'observateur risque de perdre la trace de sa position exacte ou de confondre l'objet avec son environnement, ce qui nécessite des techniques de prédiction de trajectoire.
+
+[![Ouvrir dans Colab] https://colab.research.google.com/drive/11SROnduHHg7642Ed8HC7Jn9k4N3e_N6W?usp=sharing
